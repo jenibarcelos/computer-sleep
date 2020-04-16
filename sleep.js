@@ -62,4 +62,4 @@ var sleep = {
         document.body.appendChild(this._video);
     },
     _video: null
-}
+};
